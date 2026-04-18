@@ -1,0 +1,23 @@
+# Exclude everything by default
+*
+
+# Allow the files we want
+!main.py
+!results/
+!README.md
+!.gitignore
+
+# Specifically ignore common patterns within allowed folders if any (optional)
+# But here we want the whole results folder
+!results/**
+
+# Global ignores for safety
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
+*.pdf
+LAB_GUIDE.md
+report/
