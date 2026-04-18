@@ -30,6 +30,6 @@ Implementation of random variable generators for various probability distributio
    ```
 
 ## 👥 Authors
-- **Caio Trigueiro** (Group 8)
+- **Caio Trigueiro** and **Piergiorgio Rodilosso** (Group 8)
 - Course: USEEJ7 - Performance Evaluation
 - Professor: Pedro Braconnot Velloso
